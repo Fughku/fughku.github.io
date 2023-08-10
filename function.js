@@ -1,2 +1,2 @@
 console.log("Hello, World!");
-window.alert("Rj is the goat")
+window.alert("This website has virus!")
